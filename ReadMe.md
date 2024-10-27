@@ -1,5 +1,3 @@
-Here’s a README file you can use for GitHub, detailing what the code does and providing some additional context.
-
 Password Strength Assessment Tool
 
 Overview
